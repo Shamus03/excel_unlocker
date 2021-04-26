@@ -3,7 +3,7 @@ Easily unlock Excel files
 
 To use:
 ```bash
-$ go install github.com/Shamus03/excel_unlocker
+$ go install github.com/Shamus03/excel_unlocker/cmd/excel-unlock
 $ excel-unlock <file>
 ```
 
